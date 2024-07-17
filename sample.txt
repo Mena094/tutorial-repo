@@ -1,1 +1,4 @@
 Tutorial de compartir repositorios
+Push: sube su historial de cambios al repositorio remoto
+Clone: puede descargar todo el contenido del repositorio remoto y crearlo como repositorio local
+Pull: descarga el último historial de cambios del repositorio remoto e incorporará su contenido a su repositorio local
